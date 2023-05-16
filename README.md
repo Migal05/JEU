@@ -1,7 +1,8 @@
 # JEU
 projet fin d'année Quentin BOUCHE et Joffrey GALLIER
 
-voici le début de notre jeu 
+voici le début de notre jeu :
+
 _il utilise pygame 
 
 Version Utilisé :
